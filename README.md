@@ -1,6 +1,6 @@
 # SasPes Launchy Skin
 
-Plain and simple skin for [Launchy](http://launchy.net/) with opportunity to become Enso Launcher like.
+Plain and simple skin for [Launchy](http://launchy.net/) with opportunity to become Enso Launcher like, optimized for screen resolution 1920x1080.
 
 ![example](example.png)
 
