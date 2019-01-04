@@ -34,7 +34,7 @@
 	color: white;
 	border-style: solid;
 	border-width: 0px;
-	qproperty-geometry: rect(-30 100 1952 540);
+	qproperty-geometry: rect(-20 100 1952 540);
 }
 
 #alternativesPath {
